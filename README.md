@@ -4,7 +4,7 @@
   
 **Software Developer • Full-Stack Web • AI & Automation**
   
-<a href="YOUR_PORTFOLIO_LINK_HERE">Portfolio</a> • <a href="YOUR_LINKEDIN_LINK_HERE">LinkedIn</a> • <a href="https://github.com/sopanhub">GitHub</a>
+<a href="https://sopanporfolio.netlify.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/sopan-patil-24b2a1380">LinkedIn</a> • <a href="https://github.com/sopanhub">GitHub</a>
 
 </div>
 
@@ -42,10 +42,10 @@ Software developer from Amalner, Maharashtra, India, focused on building robust 
 ---
 
 ### Featured Projects
-*(Note: Replace with your actual project links and descriptions)*
+*(Note: Replace the bracketed links with your actual GitHub repo URLs)*
 
-**[SupportAI](Link-to-repo)**
+**[SupportAI](https://github.com/sopanhub/support-ai-preview)**
 * Full-stack application featuring a Next.js frontend and a scalable Firebase database backend.
 
-**[TubeMationAI](Link-to-repo)**
+**[TubeMationAI](https://github.com/sopanhub/TubeMationAI)**
 * Automated video generation pipeline handling scripting, editing, and generative asset workflows.
