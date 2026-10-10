@@ -120,17 +120,6 @@ A cross-platform Flutter app on [Google Play](YOUR_PLAY_STORE_LINK) with **5k+ d
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopanhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopanhub&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **B.Tech in Computer Science**, SSVPS College of Engineering, Dhule (Expected 2029)
