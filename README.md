@@ -4,7 +4,7 @@
   
 **Software Developer • Full-Stack Web • AI & Automation**
   
-<a href="https://sopanporfolio.netlify.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/sopan-patil-24b2a1380">LinkedIn</a> • <a href="https://github.com/sopanhub">GitHub</a>
+<a href="https://www.linkedin.com/in/sopan-patil-24b2a1380">LinkedIn</a> • <a href="https://github.com/sopanhub">GitHub</a>
 
 </div>
 
