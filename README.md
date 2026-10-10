@@ -59,13 +59,15 @@ An end-to-end pipeline that turns a long-form video URL into a **published YouTu
 ---
 
 ### 📱 MCPE Shaders and Textures: Android App
-A cross-platform Flutter app on [Google Play](YOUR_PLAY_STORE_LINK) with **5k+ downloads**, connected to the website's backend through its API.
+A cross-platform Flutter app on [Google Play](https://play.google.com/store/apps/details?id=com.piglixmcmods.app) with **5k+ downloads**, connected to the website's backend through its API.
 
 - **Offline caching** with SQLite
 - **Push notifications** with Firebase Cloud Messaging
 - Analytics and favorites
 
 `Flutter` `Dart` `Firebase` `SQLite`
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.piglixmcmods.app)
 
 ---
 
