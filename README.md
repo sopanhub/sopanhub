@@ -26,7 +26,7 @@ I like turning messy problems into working products, and I take ownership of the
 
 ## 📊 Impact at a Glance
 
-| 👥 **61k+** | 📱 **5k+** | 🎬 **16k+** | ⚡ **120 req/min** |
+| 👥 **70k+** | 📱 **10k+** | 🎬 **16k+** | ⚡ **120 req/min** |
 |:---:|:---:|:---:|:---:|
 | users on my production platform | Google Play downloads | subscribers on my YouTube channel | Redis rate limiter across serverless instances |
 
