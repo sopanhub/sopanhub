@@ -35,7 +35,7 @@ I like turning messy problems into working products, and I take ownership of the
 ## 🛠️ Featured Projects
 
 ### 🌐 [PiglixMCMods.dev](https://www.piglixmcmods.dev): Full-Stack Platform
-A production web platform for Minecraft shaders, texture packs and mods, built and maintained solo, serving **61k+ users**.
+A production web platform for Minecraft shaders, texture packs and mods, built and maintained solo, serving **100k+ users**.
 
 - **Redis-backed rate limiter** (120 requests/min per IP) that stays consistent across serverless instances
 - **Quota guard + caching layer** that caps CurseForge calls at 5,000 per hour to stay within third-party API limits
@@ -59,7 +59,7 @@ An end-to-end pipeline that turns a long-form video URL into a **published YouTu
 ---
 
 ### 📱 MCPE Shaders and Textures: Android App
-A cross-platform Flutter app on [Google Play](https://play.google.com/store/apps/details?id=com.piglixmcmods.app) with **5k+ downloads**, connected to the website's backend through its API.
+A cross-platform Flutter app on [Google Play](https://play.google.com/store/apps/details?id=com.piglixmcmods.app) with **10k+ downloads**, connected to the website's backend through its API.
 
 - **Offline caching** with SQLite
 - **Push notifications** with Firebase Cloud Messaging
