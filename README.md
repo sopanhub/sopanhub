@@ -4,7 +4,7 @@
 
 ### Full-Stack & AI Developer · Next.js · Python · Flutter
 
-*I build and ship real products: a platform with **70k+ users**, an Android app with **10k+ downloads**, and an open-source AI video engine.*
+*I build and ship real products: a platform with **100k+ users**, an Android app with **10k+ downloads**, and an open-source AI video engine.*
 
 <br>
 
@@ -26,7 +26,7 @@ I like turning messy problems into working products, and I take ownership of the
 
 ## 📊 Impact at a Glance
 
-| 👥 **70k+** | 📱 **10k+** | 🎬 **16k+** | ⚡ **120 req/min** |
+| 👥 **100k+** | 📱 **10k+** | 🎬 **16k+** | ⚡ **120 req/min** |
 |:---:|:---:|:---:|:---:|
 | users on my production platform | Google Play downloads | subscribers on my YouTube channel | Redis rate limiter across serverless instances |
 
